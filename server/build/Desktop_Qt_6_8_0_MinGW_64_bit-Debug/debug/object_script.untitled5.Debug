@@ -1,0 +1,10 @@
+debug/main.o
+debug/application.o
+debug/array.o
+debug/complex.o
+debug/communicator.o
+debug/common.o
+debug/polinom.o
+debug/moc_application.o
+debug/moc_communicator.o
+debug/moc_polinom.o

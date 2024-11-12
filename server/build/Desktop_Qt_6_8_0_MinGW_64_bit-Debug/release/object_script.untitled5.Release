@@ -1,0 +1,10 @@
+release/main.o
+release/application.o
+release/array.o
+release/complex.o
+release/communicator.o
+release/common.o
+release/polinom.o
+release/moc_application.o
+release/moc_communicator.o
+release/moc_polinom.o
